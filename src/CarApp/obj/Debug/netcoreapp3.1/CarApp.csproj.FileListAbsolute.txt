@@ -1,0 +1,13 @@
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.exe
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.deps.json
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.runtimeconfig.json
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.runtimeconfig.dev.json
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.dll
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\bin\Debug\netcoreapp3.1\CarApp.pdb
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.AssemblyInfo.cs
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.dll
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.pdb
+D:\Users\stu-ipsp121\Desktop\Tikhonova\CarApp\obj\Debug\netcoreapp3.1\CarApp.genruntimeconfig.cache
